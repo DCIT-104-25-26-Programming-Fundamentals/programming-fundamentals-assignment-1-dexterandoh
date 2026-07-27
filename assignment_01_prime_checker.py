@@ -48,7 +48,7 @@ def is_prime(n):
 
 if __name__ == "__main__":
     # Prompt user for input
-    num = int(input("Enter a number: "))
+    num = int(input("Enter a number:"))
     
     # Print result
     if is_prime(num):
